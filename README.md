@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amith-B
 - 👀 I’m interested in developing web applications
-- 🌱 I’m currently learning javascript full stack
+- 🌱 I’m currently enhancing my skillset in full-stack developement
 - 📫 How to reach me -> https://amith-b.github.io or on amithbr6@gmail.com
 
 ### Language Stats
