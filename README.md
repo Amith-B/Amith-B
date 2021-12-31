@@ -21,7 +21,7 @@
 <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white" />
 <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" />
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-<img alt="MongoDB" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+<img alt="Express" src="https://img.shields.io/badge/Express.js-404D59?style=flat" />
 <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white" />
  
 <img alt="azuredevops" src="https://img.shields.io/badge/-AzureDevops-0078D7?style=flat&logo=azuredevops&logoColor=white" />
