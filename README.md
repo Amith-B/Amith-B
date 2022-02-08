@@ -7,6 +7,7 @@
 <p>
  <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://amith-b.github.io" alt="amith-b website link"/> 
  </p>
+ 
 ### Language Stats
 <p>
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amith-b&show_icons=true&locale=en&layout=compact" alt="amith-b language stats"/> 
