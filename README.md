@@ -3,6 +3,10 @@
 - 🌱 I’m currently enhancing my skillset in full-stack developement
 - 📫 How to reach me -> https://amith-b.github.io or on amithbr6@gmail.com
 
+### Website link
+<p>
+ <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://amith-b.github.io" alt="amith-b website link"/> 
+ </p>
 ### Language Stats
 <p>
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amith-b&show_icons=true&locale=en&layout=compact" alt="amith-b language stats"/> 
