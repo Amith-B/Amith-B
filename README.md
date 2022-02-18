@@ -39,6 +39,7 @@
 <img alt="Next" src="https://img.shields.io/badge/-Next-000000?style=flat&logo=Next.js&logoColor=white" />
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
 <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white" />
+ <img alt="Heroku" src="https://img.shields.io/badge/-Storybook-f7548b?style=flat&logo=storybook&logoColor=white" />
 </p>
 <!---
 Amith-B/Amith-B is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
