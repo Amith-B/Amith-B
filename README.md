@@ -33,7 +33,7 @@
 <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white" />
 <img alt="Material UI" src="https://img.shields.io/badge/-Material UI-0081CB?style=flat&logo=material-ui&logoColor=white" />
 <img alt="React Router" src="https://img.shields.io/badge/-React Router-CA4245?style=flat&logo=react-router&logoColor=white" />
-<img alt="Swagger" src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=white" />
+<img alt="RXJS" src="https://img.shields.io/badge/-Rxjs-df1d84?style=flat&logo=reactivex&logoColor=white" />
 <img alt="Nodemon" src="https://img.shields.io/badge/-Nodemon-76D04B?style=flat&logo=nodemon&logoColor=white" />
 <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
 <img alt="Next" src="https://img.shields.io/badge/-Next-000000?style=flat&logo=Next.js&logoColor=white" />
